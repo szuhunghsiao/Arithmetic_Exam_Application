@@ -1,0 +1,3 @@
+Nick: 5/5 in 1 (simple operations with numbers 2-9)
+Vivian: 5/5 in 2 (integral squares 11-29)
+Tina: 3/5 in 1 (simple operations with numbers 2-9)
